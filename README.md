@@ -4,6 +4,12 @@
   ![Project Banner](./readme_assets/readme_banner.png)
 
   <p>
+    <a href="https://codeclimate.com/github/tristan-greffe/node-xml2json/coverage">
+      <img src="https://codeclimate.com/github/tristan-greffe/node-xml2json/badges/coverage.svg" alt="coverage" />
+    </a>
+    <a href="https://codeclimate.com/github/tristan-greffe/node-xml2json">
+      <img src="https://codeclimate.com/github/tristan-greffe/node-xml2json/badges/gpa.svg" alt="maintainability" />
+    </a>
     <a href="https://github.com/tristan-greffe/node-xml2json/stargazers">
       <img src="https://img.shields.io/github/stars/tristan-greffe/node-xml2json" alt="stars" />
     </a>
