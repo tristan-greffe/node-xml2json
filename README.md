@@ -23,9 +23,9 @@
 
 ### Features
 
-1. 
+1. Transforms data in XML format into JSON
 
-2. 
+2. convert JSON objects into XML documents
 
 ### Tech Stack
 
