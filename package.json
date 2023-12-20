@@ -25,7 +25,8 @@
     "url": "https://github.com/tristan-greffe/node-xml2json/issues"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "jest": {
     "testEnvironment": "jsdom"
