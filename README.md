@@ -25,7 +25,7 @@
 
 1. Transforms data in XML format into JSON
 
-2. convert JSON objects into XML documents
+2. Convert JSON objects into XML documents
 
 ### Tech Stack
 
