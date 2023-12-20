@@ -54,7 +54,7 @@ yarn add @codask/xml2json
 ### Example
 
 ```sh
-import { xmlToJson } from '@codask/weacast'
+import { xml2json } from '@codask/weacast'
 
 xmlToJson('<root><name>John Doe</name><age>30</age></root>')
 ```
