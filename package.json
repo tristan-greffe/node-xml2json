@@ -1,0 +1,30 @@
+{
+  "name": "@codask/xml2json",
+  "description": "Converts xml to json and vice-versa",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "parser"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tristan-greffe/node-xml2json.git"
+  },
+  "author": {
+    "name": "Tristan Greffe contributors",
+    "url": "https://github.com/tristan-greffe"
+  },
+  "bugs": {
+    "url": "https://github.com/tristan-greffe/node-xml2json/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
