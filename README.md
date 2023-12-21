@@ -54,13 +54,13 @@ yarn add @codask/xml2json
 ### Example
 
 ```sh
-import { xml2json } from '@codask/weacast'
+import { xml2json } from '@codask/xml2json'
 
 xmlToJson('<root><name>John Doe</name><age>30</age></root>')
 ```
 
 ```sh
-import { json2xml } from '@codask/weacast'
+import { json2xml } from '@codask/xml2json'
 
 json2xml({
   "root": {
