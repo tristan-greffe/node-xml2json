@@ -1,7 +1,7 @@
 {
   "name": "@codask/xml2json",
   "description": "Converts xml to json and vice-versa",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "type": "module",
   "main": "lib/index.js",
   "directories": {
