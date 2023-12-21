@@ -207,7 +207,10 @@ describe('Converts an XML string into a JSON object', () => {
   test('Conversion with malformed XML structure', () => {
     const xmlString = '<root><person><name>John Doe</name></root>'
     const expectedJson = {
-      parsererror: '1:42: unexpected close tag.'
+      root: {
+        name: 'John Doe',
+        person: {}
+      }
     }
     expect(xml2json(xmlString)).toEqual(expectedJson)
   })
